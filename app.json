@@ -1,0 +1,17 @@
+{
+  "name": "WaitTimeApp",
+  "displayName": "WaitTimeApp",
+  "expo": {
+    "name": "WaitTimeApp",
+    "slug": "WaitTimeApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
